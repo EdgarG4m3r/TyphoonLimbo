@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	t "github.com/TyphoonMC/TyphoonCore"
+	t "github.com/EdgarG4m3r/TyphoonCore"
 )
 
 func main() {
