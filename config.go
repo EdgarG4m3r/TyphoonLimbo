@@ -2,8 +2,8 @@ package main
 
 import (
 	"encoding/json"
-	t "github.com/TyphoonMC/TyphoonCore"
-	"github.com/TyphoonMC/go.uuid"
+	t "github.com/EdgarG4m3r/TyphoonCore"
+	"github.com/EdgarG4m3r/go.uuid"
 )
 
 type SpawnConfig struct {
